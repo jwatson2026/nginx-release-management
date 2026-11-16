@@ -156,7 +156,7 @@ kubectl get deployment,pods -l app=nginx-chart
 
 
 
-Cleanup verification is pending. The release was installed when the evidence was captured.
+Cleanup verified: the Helm release, Deployment, Service, and application pods were removed. The chart and evidence files were preserved.
 
 
 
