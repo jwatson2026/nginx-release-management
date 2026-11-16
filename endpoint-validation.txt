@@ -1,0 +1,2 @@
+NAME                         ADDRESSTYPE   PORTS   ENDPOINTS    AGE
+my-nginx-nginx-chart-gsrqq   IPv4          80      10.244.0.7   27m

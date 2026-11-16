@@ -1,0 +1,5 @@
+NAME                                   READY   UP-TO-DATE   AVAILABLE   AGE   CONTAINERS   IMAGES         SELECTOR
+deployment.apps/my-nginx-nginx-chart   1/1     1            1           24m   nginx        nginx:1.25.3   app=nginx-chart
+
+NAME                                        READY   STATUS    RESTARTS   AGE   IP           NODE                    NOMINATED NODE   READINESS GATES
+pod/my-nginx-nginx-chart-5bfb7cbc49-l69mv   1/1     Running   0          24m   10.244.0.7   desktop-control-plane   <none>           <none>

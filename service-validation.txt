@@ -1,0 +1,2 @@
+NAME                   TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)   AGE   SELECTOR
+my-nginx-nginx-chart   ClusterIP   10.96.72.100   <none>        80/TCP    25m   app=nginx-chart
